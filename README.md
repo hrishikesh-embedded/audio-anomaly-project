@@ -11,3 +11,7 @@ Building real‑time audio anomaly detection for edge devices. Calibrates on amb
 - Rolling context: 5s pre‑event buffer + 3s post‑event capture; saves timestamped WAV for review
 - Robustness: environment calibration to reduce false positives; auto sample‑rate selection for different mics
 - Delivery: multipart HTTP alerts with sensor ID, timestamps, and attached audio
+
+##Architecture
+
+https://www.figma.com/make/pUmFuGIL0Iq0MHJ7LX9qfN/Create-Flowchart-with-Arrows?node-id=0-1&t=mAvCVcZmkR8BM2Oq-1
